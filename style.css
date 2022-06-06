@@ -1,0 +1,11 @@
+div.topContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.btnContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
